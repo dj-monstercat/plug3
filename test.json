@@ -1,0 +1,63 @@
+{
+    "room": "null",
+    "author": "EDM Nation",
+    "css": "null",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": false,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "forceSmartVote": false,
+        "allowShowingMehs": true
+    },
+    "ccc": {
+        "admin": "FF0000",
+        "ambassador": "#84B423",
+        "host": "#5D8EFF",
+        "cohost": "#5DB4FF",
+        "manager": "#AB48C6",
+        "bouncer": "#F3508F",
+        "rdj": "#F7A452",
+        "subscriber": "",
+        "friend": "#efa0a6",
+        "user": "#cccccc"
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k14tc.jpg",
+        "playback": "http://i.imgur.com/7wjjB5a.gif",
+        "admin": "https://ssl.benzi.io/code/qluster/images/icons/admin.png",
+        "ambassador": "https://ssl.benzi.io/code/qluster/images/icons/ambassador.png",
+        "host": "http://i.imgur.com/VVhO8Mg.png",
+        "cohost": "http://i.imgur.com/gpxkfDa.png",
+        "manager": "http://i.imgur.com/0droQnB.png",
+        "bouncer": "http://i.imgur.com/u8O8Sa3.png",
+        "rdj": "http://i.imgur.com/Wwtw29L.png",
+        "subscriber": "http://i.imgur.com/qB4KtI4.png"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "bwave": "https://ssl.benzi.io/code/qluster/images/emotes/custom/bwave.png",
+        "classic08eyes": "https://ssl.benzi.io/code/qluster/images/emotes/custom/classic08eyes.png",
+        "copyright2": "https://ssl.benzi.io/code/qluster/images/emotes/copyright2.png",
+        "cwave": "https://ssl.benzi.io/code/qluster/images/emotes/custom/cwave.png",
+        "dull": "https://ssl.benzi.io/code/qluster/images/emotes/custom/dull.gif",
+        "eye": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eye.png",
+        "eyescross": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eyescross.png",
+        "eyesdown": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eyesdown.png",
+        "eyesmid": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eyesmid.png",
+        "eyesright": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eyesright.png",
+        "eyesup": "https://ssl.benzi.io/code/qluster/images/emotes/custom/eyesup.png",
+        "faxe": "https://ssl.benzi.io/code/qluster/images/emotes/custom/faxe.png",
+        "fillynude": "https://ssl.benzi.io/code/qluster/images/emotes/custom/fillynude.png",
+        "giggle": "https://ssl.benzi.io/code/qluster/images/emotes/custom/giggle.gif",
+        "lol": "https://ssl.benzi.io/code/qluster/images/emotes/custom/lol.png",
+        "mlgfrog": "https://ssl.benzi.io/code/qluster/images/emotes/custom/mlgfrog.gif",
+        "snoop": "https://ssl.benzi.io/code/qluster/images/emotes/custom/snoop.gif",
+        "tm2": "https://ssl.benzi.io/code/qluster/images/emotes/custom/tm2.png",
+        "trademark": "https://ssl.benzi.io/code/qluster/images/emotes/custom/tm2.png",
+        "wasntme": "https://ssl.benzi.io/code/qluster/images/emotes/custom/wasntme.gif",
+        "wonder": "https://ssl.benzi.io/code/qluster/images/emotes/custom/wonder.gif"
+    }
+}
