@@ -1,0 +1,15 @@
+{
+  "room": "",
+  "author": "",
+  "icon": null,
+  "css": "https://rawgit.com/dj-monstercat/plug3/master/1.css",
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": false,
+    "allowAutograb": false,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+  },
