@@ -27,11 +27,11 @@
         "user": null
     },
     "images": {
-        "background": http://i.imgur.com/gpmR9MP.jpg,
+        "background": "http://i.imgur.com/gpmR9MP.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": http://i.imgur.com/oI5ViLh.png,
+        "host": "http://i.imgur.com/oI5ViLh.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
