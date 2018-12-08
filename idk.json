@@ -2,7 +2,7 @@
   "room": "",
   "author": "",
   "icon": null,
-  "css": "https://rawgit.com/dj-monstercat/plug3/master/1.css",
+  "css": "https://cdn.jsdelivr.net/gh/dj-monstercat/plug3/1.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
