@@ -1,7 +1,7 @@
 {
     "room": "null",
     "author": "EDM Nation",
-    "css": "https://rawgit.com/dj-monstercat/plug3/master/test.css",
+    "css": "https://cdn.jsdelivr.net/gh/dj-monstercat/plug3/test.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
